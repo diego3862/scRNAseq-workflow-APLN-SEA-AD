@@ -17,7 +17,7 @@ This analysis explores the SEA-AD HIP, DFC, and MTG datasets from the perspectiv
 ## References and Data Availability
 The SEA-AD consortium aims to build a map of brain cell types in aging and AD. It achieves this by generating publicly available multi-omic resources such as that used in this repository. 
 * **Original Paper:** Travaglini et al. (2026) -[*Multiregional single-cell profiling reveals shared and specialized cellular vulnerability in Alzheimer’s disease*](https://www.biorxiv.org/content/10.64898/2026.07.01.734821v1)
-* **Data available:** The full scRNAseq and scATACseq dataset can be found here: https://brain-map.org/consortia/sea-ad/our-data. The specific .h5ad object used for this workflow ("SEA-AD_Microglia-and-Immune_multi-regional_final-nuclei_AAIC-pre-release.2025-07-24.h5ad"), is now available at: https://sea-ad-single-cell-profiling.s3.amazonaws.com/index.html#Multiregion_2026/previous_objects/
+* **Data available:** The full scRNAseq and scATACseq dataset can be found here: https://brain-map.org/consortia/sea-ad/our-data 
 
 ## Installation
 * Running in google Colab (recommended). Open the notebook:notebooks/run_workflow.ipynb. Follow google drive comment instructions.
